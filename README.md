@@ -12,4 +12,4 @@
 -"foto" =['*.png','*.jpeg','*.jpg','*.bmp','*.cpt','*.gif','*.tga','*.psd','*.tiff','*.tif']  
 -Введите имя архива:
 например: c:\archive, будет создан архив c:\archive.zip
-
+j
